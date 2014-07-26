@@ -33,4 +33,4 @@ create_tidy_data("C:/getting-and-cleaning-data/UCI HAR Dataset/")
 ```
 
 It will create a new tidy data file containing the mean and standard deviation averages for each activity/subject.
-For details, please read the cookbook.md file.
+For details, please read the CodeBook.md file.
